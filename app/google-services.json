@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1034025747550",
+    "firebase_url": "https://ecology-a8dc4.firebaseio.com",
+    "project_id": "ecology-a8dc4",
+    "storage_bucket": "ecology-a8dc4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034025747550:android:ad2e8b1ad4838202",
+        "android_client_info": {
+          "package_name": "com.example.ecology"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034025747550-sglesijrtdn43g0rm7r3d5pf9v1rddda.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ecology",
+            "certificate_hash": "14f49dc06dea5f576c5e93d3b1f1d73222109ad3"
+          }
+        },
+        {
+          "client_id": "1034025747550-13a9ufc09e12m2eefnbu50g9qg77e7l1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxTjZ9_bXTCNbcImJQJCrMvdzNk-5pVfI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034025747550-13a9ufc09e12m2eefnbu50g9qg77e7l1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

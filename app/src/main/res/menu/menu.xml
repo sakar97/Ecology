@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item android:title="Scan">
+            <menu>
+                <item
+                    android:id="@+id/scan"
+                    android:title="Document"></item>
+                <item
+                    android:id="@+id/barcode"
+                    android:title="Barcode Scanner"></item>
+                <item
+                    android:id="@+id/qr"
+                    android:title="QR Code Scanner"></item>
+            </menu>
+        </item>
+    </group>
+    <group android:checkableBehavior="single">
+        <item android:title="Share">
+            <menu>
+                <item
+                    android:id="@+id/sax"
+                    android:title="Sas"></item>
+                <item
+                    android:id="@+id/email"
+                    android:title="Email"></item>
+            </menu>
+        </item>
+
+    </group>
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/about"
+                android:title="About"></item>
+            <item
+                android:id="@+id/feedback"
+                android:title="Feedback"></item>
+        </menu>
+    </item>
+
+</menu>

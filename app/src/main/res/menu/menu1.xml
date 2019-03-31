@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+            <item
+                android:id="@+id/feedback"
+                android:title="Feedback"
+                android:icon="@drawable/ic_feedback_black_24dp"
+                app:showAsAction="withText"
+                 />
+    <item
+        android:id="@+id/removemarker"
+        android:title="Remove all Marker"
+        android:icon="@drawable/ic_feedback_black_24dp"
+        app:showAsAction="withText"
+        />
+            <item
+                app:showAsAction="withText"
+                android:id="@+id/share"
+                android:icon="@drawable/ic_share_black_24dp"
+                android:title="Share"
+                 />
+            <item
+                app:showAsAction="withText"
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_sentiment_dissatisfied_black_24dp"
+                android:title="Logout"
+                />
+        </menu>
